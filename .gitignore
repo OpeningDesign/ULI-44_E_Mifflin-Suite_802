@@ -4,7 +4,8 @@
 *.bak
 *.ifc.log.html
 Ryan_Random_Tests/
-
+Unshared/
+.dropbox
 
 
 # Windows image file caches
