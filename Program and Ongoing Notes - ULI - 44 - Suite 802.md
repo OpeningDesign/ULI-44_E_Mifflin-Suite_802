@@ -15,7 +15,7 @@
 	- 4 or 5 workstations in "C" shaped open office layout
 		- floor outlets might/might not be necessary to accomodate these workstations.
 - 6 person conference table in open office
-	- near office entry, most likely.
+	- tenant would like it near entry, not next to 'open office'.
 - *Relocate sink from private office to the current reception area.*
 	- there might be a alternate place for this, depending on how everything lays out.
 		- most likely near conference table however.
@@ -26,9 +26,12 @@
 			- this might be more hassle than it worth with a bunch of miss aligned grids and grids at different elevations off the floor.
 	- 2.Or perhaps remove ACT and paint (darker color) the exposed concrete and ductwork.
 - Reuse 2x4 fixtures a much a possible.
+- allocate space for a retro arcade game (approx. 30” x 30”)
 - *Replace carpet with LVT (luxury vinyl plank) flooring TBD and mutually agreeable.* 
 - *Repaint the suite.*
 - *Install building standard mini-blinds on exterior windows.*
+- Reuse wood trim around existing door and sidelight, but not fluted glass.  Will replace with clear glass.
+- They will not have a reception area.
 
 
  
