@@ -91,7 +91,6 @@
 
 - Documentation
  - [As built sketches and drawings]( https://github.com/OpeningDesign/ULI-44_E_Mifflin-Suite_802/tree/master/Research%20%26%20CA/Research%20%26%20Submittals/02%20-%20Existing%20Conditions)
-	 - CAD background [here](https://github.com/OpeningDesign/ULI_1-S-Pinckney-St_Suite-340_Conference-Room/commit/68b2d1d60ef6012b03fb246dd400fc3f9a4a2c79)
  - [Video of existing conditions](https://www.youtube.com/watch?v=AyDF_qFapHA) 
  - [Construction Document Precedents for Tenant Improvements:](https://github.com/OpeningDesign/OD_Library/blob/master/Precedent%20Projects/Tenant%20Improvement/Tenant%20Improvement%20-%20Multiple%20Projects.pdf) to give you a sense of what info is typically required for Permit.
 
