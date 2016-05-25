@@ -8,13 +8,15 @@
 - 6/7 people total
 	- 1 private office
 		- Owner/Tenant open to reevaluate the entire enclosure around office, using polycarbonate panels.  That is,  demoing the (3) existing drywall walls and door/trim/sidelight and creating a cost-effective ([unistrut](https://www.google.com/search?q=unistrut&rlz=1C1CHFX_enUS591US591&biw=1920&bih=955&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj-1eWwmfPMAhUm44MKHUEpBpIQ_AUICCgC)), unique "element" within the space.
-			- They would like a few selective areas to be glass, however, as to have a small view to the exterior and perhaps one within door (glass inset), to see inside office. 
+			- Perhaps to save costs, we could demo the walls up to where the wall meets the ACT line (save the ACT in the office).  We could header this portion off, with kickers from the wall back to the slab, and the polycarbonate could start from there down to the floor.
+			- They would like a few selective areas to be glass, however, as to have a small view to the exterior and perhaps one within door (glass inset), to see inside office.
+			- The cost of this approach might be prohibitive, however.  With that in mind, let's have alternate fall back plan in mind--that is, reusing doors and sidelights, etc.
 		- Could potentially be a barn door type of door into office, as well.
 		- tenant to bring existing desk.  Will ask for existing dimensions.
 	- Demo
 		- demo all other existing offices that are near the storefront
 		- *Remove existing reception desk, and repair affected walls.*
-			- There was some discussion on potenially removing the drywall around the columns to expose the brick.
+			- There was some discussion on potenially removing the drywall around the columns to expose the concrete.
 				- This makes more sense now, with industrial look/feel of polycarbonate.
 	- 6 workstations
 		- Desks
@@ -33,8 +35,8 @@
 			- With workstations against storefront, provide a enclosed raceway along existing sill mullion.
 			- Other desk locations, power can be at wall, use existing locations as much as possible.
 		- small like ~3ft dia roundtable in/around workstation area.
-- Waiting relaxing areas are nice, although not crucial.
- 6 person conference table in open office
+- Waiting/relaxing areas are nice, although not crucial.
+- 6 person conference table in open office
 	- tenant would like it near entry, not next to 'open office'.
 	- 3.5' diameter table.
 		- OD to provide tenant with short list of table options.
@@ -43,8 +45,7 @@
 	- Tenant uses a portable projector... projecting from conf. table onto frosted glass marker board wall. (could it be polycarbonate?)
 		- frosted glass marker board wall. (potential design feature)
 			- Most likely floor to ceiling, or on standoffs from the wall.
-				- Research on glass wall to accomodate the display of the projector. 
-		- 
+				- Research on glass wall to accommodate the display of the projector.
 - *Relocate sink from private office to the current reception area.*
 	- there might be a alternate place for this, depending on how everything lays out.
 		- most likely near conference table however.
@@ -53,11 +54,9 @@
 - Ceiling: Two options potentially
 	- 1.Existing ACT grid to be used as feasible or...
 		- *"Remove existing office walls, patch ceiling between and add a bulkhead to transition to the higher ceiling area to avoid replacement of entire ceiling."*
-			- this might be more hassle than it worth with a bunch of miss aligned grids and grids at different elevations off the floor.
-				- It sounds as ULI is more open to new ACT tile.
-					- ULI will do selective removal of ACT tiles within the next couple days so OD can do an extensive survey of existing conditions.
-						- Open to the potential of exposing the concete ceiling, but dependent on existing conditions.  Will most likely not be entire ceiling, however, as too many hard surfaces will create an echoey office.
-	- 2.Or perhaps remove ACT and paint (darker color) the exposed concrete and ductwork.
+			-  ULI will do selective removal of ACT tiles within the next couple days so OD can do an extensive survey of existing conditions.
+				- Open to the potential of exposing the concete ceiling, but dependent on existing conditions.  Will most likely not be entire ceiling, however, as too many hard surfaces will create an echoey office.
+					- Whatever we do here, 'cost effectiveness' is the name of the game. :)
 - Lighting
 	 - we will not reuse existing 2x4 fixtures.
 		 - ULI will send cutsheet of 2x4 they prefer.
@@ -72,7 +71,7 @@
 - Reuse wood trim around existing door and sidelight, but not fluted glass.  Will replace with clear glass.
 - They will not have a reception area.
 - Very minimal storage needs, that is 2x4 file cabinets not necessary.
-- Not wall TVs necessary
+- No wall TVs necessary
 - Data
 	- Tenant needs only one data port for the wireless router.
 	- Existing data port locations will be sufficient.
