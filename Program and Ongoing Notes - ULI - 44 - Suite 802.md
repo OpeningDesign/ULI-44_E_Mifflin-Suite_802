@@ -59,7 +59,7 @@
 					- Whatever we do here, 'cost effectiveness' is the name of the game. :)
 - Lighting
 	 - we will not reuse existing 2x4 fixtures.
-		 - ULI will send cutsheet of 2x4 they prefer.
+		 - [cutsheet](https://github.com/OpeningDesign/ULI-44_E_Mifflin-Suite_802/commit/8c1c49e9b9eb6095aef850356437160e85fc35ff) of 2x4 ULI perfer's.
 - allocate space for a retro arcade game (approx. 30” x 30”)
 - *Replace carpet with LVT (luxury vinyl plank) flooring TBD and mutually agreeable.* 
 	- Flooring to be: http://www.patcraft.com/ProductSpecHS/Show/I311V/
