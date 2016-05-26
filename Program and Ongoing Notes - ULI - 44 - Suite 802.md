@@ -50,6 +50,9 @@
 	- there might be a alternate place for this, depending on how everything lays out.
 		- most likely near conference table however.
 	- Will have upper and lower cabinets as well around the sink area.
+		- Appliance measurements using WidthXHeightXDepth in inches:
+			- Microwave - 18X10.5X12.5
+			- Refrigerator - 19X27X18
 	- Like idea about screen in front to coffee area, as indicated on plan.  Polycarbonate as well?  Like opportunity for signage, there as well, maybe.
 - Ceiling: Two options potentially
 	- 1.Existing ACT grid to be used as feasible or...
